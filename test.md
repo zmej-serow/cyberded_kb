@@ -1,3 +1,3 @@
-test, mazafaka, check7
+test, mazafaka, check8
 
 [Documentation](https://ya.ru)
