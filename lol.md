@@ -1,3 +1,0 @@
-Opanki
-
-djidjdjiojiojfiowe
