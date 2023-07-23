@@ -9,6 +9,7 @@
 Белград:
 - [СпортОфис](https://sportofis.com/)
 - [ПроБайк](https://www.probike.rs/)
+- [СпортЗона](https://sportzona.rs/)
 
 Крушевац:
 - [BikeSport](https://bikesport.rs/): официальный дилер Shimano и Muc-Off.
