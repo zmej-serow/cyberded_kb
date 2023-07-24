@@ -21,3 +21,7 @@
 [bike-components](https://www.bike-components.de/), [bike-discount](https://www.bike-discount.de/en), [r2bike](https://r2-bike.com/);
 испанцы из [bikeinn](https://www.tradeinn.com/bikeinn/en)) — есть вычет 19% VAT и прибавление 32% местных налогов.
 Поддержите отечественное, живела Србиja, че. — [Artemy Troitskiy](https://t.me/pandeglol)
+
+**Про алишечку:**
+Правила применяются одинаковые, откуда бы не ехала посылка — хоть из Китая, хоть из ЕС, хоть из Бразилии. До €50, формально —
+только НДС 20%, но по факту — часто не начисляют. После €50 — и НДС, и пошлина 10% последовательно.
