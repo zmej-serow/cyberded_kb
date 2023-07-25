@@ -14,6 +14,9 @@
 Крушевац:
 - [BikeSport](https://bikesport.rs/): официальный дилер Shimano и Muc-Off.
 
+Вршац:
+- [Biciklino](https://biciklino.com/shop/)
+
 Велозамки: у Abus есть [магазин](https://goo.gl/maps/JUjWHYMRtxPutJWg9) в начале ул.Железничкой.
 
 В стране нормально работает доставка, можно заказывать себе домой из интернет-магазинов, приедет через пару дней.
