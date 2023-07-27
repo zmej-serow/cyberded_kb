@@ -9,8 +9,8 @@
 
 **Поезда**
 
-Между Нови Садом и Белградом ходит два типа скоростных электричек. Билеты можно купить в приложении Srbija voz
-((для андроида)[https://play.google.com/store/apps/details?id=com.srbijavoz.app] и для (iOS)[https://apps.apple.com/rs/app/srbija-voz/id1600735042]).
+Между Нови Садом и Белградом ходит два типа скоростных электричек. Билеты можно купить в приложении Srbija voz:
+(ссылочка для андроида)[https://play.google.com/store/apps/details?id=com.srbijavoz.app] и для (iOS)[https://apps.apple.com/rs/app/srbija-voz/id1600735042].
 Расписание можно посмотреть в том же приложении и на сайте (https://w3.srbvoz.rs/redvoznje).
 _Провоз велосипеда_ стоит 100 динаров и оплачивается наличкой контролёру.
 
