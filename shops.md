@@ -14,6 +14,9 @@
 Крушевац:
 - [BikeSport](https://bikesport.rs/): официальный дилер Shimano и Muc-Off.
 
+Бачка Топола:
+- [TotalBike](https://www.totalbike.rs)
+
 Вршац:
 - [Biciklino](https://biciklino.com/shop/)
 
