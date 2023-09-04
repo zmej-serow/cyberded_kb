@@ -13,7 +13,6 @@
 В мастерские при магазинах PlanetBike лучше не ходить, делают хреново, приходится переделывать.
 
 **Байкфит:**
-- [Палыч](https://instagram.com/fit_by_antoniopavlovich/). Хорошо, грамотно, душевно. Нови Сад.
 - [Ivan Stević](https://www.instagram.com/stevic_bike_solutions/). Бывший [профик](http://autobus.cyclingnews.com/riders/2005/interviews/?id=ivan_stevic05), хвалят. Белград.
 
 **Починка карбоновых рам:**
