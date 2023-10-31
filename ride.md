@@ -5,3 +5,4 @@
 - [Фейсбучная группа](https://www.facebook.com/groups/sundayridenovisad) сильных шоссейных катальцев в НС.
 - Чатик для тех, кто предпочитает [езду вниз](https://t.me/dirtrs).
 - [Drop Bar Belgrade](https://www.strava.com/clubs/dbb-): еженедельный гревел и шоссе, в основном подбелградье.
+- [Bicikladies](https://www.strava.com/clubs/bicikladies): Ledi na biciklima! Женский велоклуб.
