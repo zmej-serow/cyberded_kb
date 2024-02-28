@@ -13,6 +13,8 @@
 
 **Поезда**
 
+Человек [Николай](https://t.me/nikolai_622) сделал удобную карту пассажирских железнодорожных перевозок Сербии. Сама карта [здесь](https://serbian-railways.netlify.app/map.png), а вот её [обсуждение](https://t.me/veloserbia/89685).
+
 Между Нови Садом и Белградом ходит два типа скоростных электричек. Билеты можно купить в приложении Srbija voz:
 [ссылочка для андроида](https://play.google.com/store/apps/details?id=com.srbijavoz.app) и для [iOS](https://apps.apple.com/rs/app/srbija-voz/id1600735042).
 Расписание можно посмотреть в том же приложении и на [сайте](https://w3.srbvoz.rs/redvoznje).
