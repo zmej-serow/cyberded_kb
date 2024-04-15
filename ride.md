@@ -6,3 +6,4 @@
 - Чатик для тех, кто предпочитает [езду вниз](https://t.me/dirtrs).
 - [Drop Bar Belgrade](https://www.strava.com/clubs/dbb-): еженедельный гревел и шоссе, в основном подбелградье.
 - [Bicikladies](https://www.strava.com/clubs/bicikladies): Ledi na biciklima! Женский велоклуб.
+- [peredelanoCC](https://t.me/peredelanoCC): катаются по городу + гревел.
