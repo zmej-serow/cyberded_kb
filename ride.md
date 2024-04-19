@@ -7,3 +7,4 @@
 - [Drop Bar Belgrade](https://www.strava.com/clubs/dbb-): еженедельный гревел и шоссе, в основном подбелградье.
 - [Bicikladies](https://www.strava.com/clubs/bicikladies): Ledi na biciklima! Женский велоклуб.
 - [peredelanoCC](https://t.me/peredelanoCC): катаются по городу + гревел.
+- [Катать-Бухать](https://t.me/KatatBuhatVel): катают. Бухают. :)
