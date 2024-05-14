@@ -8,3 +8,4 @@
 - [Bicikladies](https://www.strava.com/clubs/bicikladies): Ledi na biciklima! Женский велоклуб.
 - [peredelanoCC](https://t.me/peredelanoCC): катаются по городу + гревел.
 - [Катать-Бухать](https://t.me/KatatBuhatVel): катают. Бухают. :)
+- [CoffeeRideNS](https://t.me/CoffeeRide_NS): чатик велокофейни + мастерской. Еженедельные покатухи по воскресеньям.
