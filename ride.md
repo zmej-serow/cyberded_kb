@@ -9,3 +9,4 @@
 - [peredelanoCC](https://t.me/peredelanoCC): катаются по городу + гревел.
 - [Катать-Бухать](https://t.me/KatatBuhatVel): катают. Бухают. :)
 - [CoffeeRideNS](https://t.me/CoffeeRide_NS): чатик велокофейни + мастерской. Еженедельные покатухи по воскресеньям.
+- [VeloSerbiaRide](https://t.me/veloserbia_ride): канал, в котором постятся анонсы покатушек, спасибо [боту](https://t.me/veloserbia_bot) товарища [iwatkot](https://t.me/iwatkot).
