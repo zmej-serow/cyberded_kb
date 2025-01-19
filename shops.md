@@ -31,7 +31,6 @@
 
 Нельзя не упомянуть [барахолку](https://www.2bike.rs/cikloberza/mali-oglasi), на ней проскакивают очень интересные варианты всякого
 плюс есть барыги-везуны из ЕС. Можно также глянуть KupujemProdajem (разделы [Bicikli](https://novi.kupujemprodajem.com/bicikli/kategorija/912) и [Bicikli - delovi i oprema](https://novi.kupujemprodajem.com/bicikli-delovi-i-oprema/kategorija/2253)).
-[Cycling Market Serbia](https://t.me/cyclingmarket_serbia) — русскоязычная велосипедная барахолка в телеге с удобным ботом.
 
 Если хочется совсем дёшево или угореть по винтажу — есть две шикарные блошки. Новисадская [Najlon pijaca](https://goo.gl/maps/6BNnUK119GucZFut9)
 и белградская [Bubanj](https://goo.gl/maps/ugef2i2aRDefF7ue7). На Бубани велосипедное можно найти в субботу с 7 до 12,
