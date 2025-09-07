@@ -7,6 +7,7 @@
 - [Cikloteka](https://goo.gl/maps/RNBCBmKFiv6KkSRt7). Специализируются на всяком олдскуле. Стальные рамы, винтаж, реставрация — это сюда.
 - [Александр, Alex00172](https://t.me/Alex00172). Питерский мастер, раньше работал в mighty-sport.ru.
 - [Coffeeride](https://maps.app.goo.gl/rWQSRp6NhGXoB6ZC7). Веломастерская + кафе; сказывают, мастер помогает с подбором велосипеда.
+- [Bike team](https://www.biketeam.rs).
 
 **Белград:**
 - [SportOfis](https://goo.gl/maps/MnEJgi183oU7jEo98). Марко. Очень сильно загруженный мастер, но работает хорошо. Можно нести карбопушку :)
