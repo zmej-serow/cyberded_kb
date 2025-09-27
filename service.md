@@ -20,7 +20,7 @@
 - [Ivan Stević](https://www.instagram.com/stevic_bike_solutions/). Бывший [профик](http://autobus.cyclingnews.com/riders/2005/interviews/?id=ivan_stevic05), хвалят. Белград.
 - [Дмитрий Кулиненков](http://www.instagram.com/dkulinenkov_coach). Тренер триатлон/бег, ультрамарафонец. Байкфит. Нови Сад. Если не отвечает в инсте — пишите в [телегу](https://t.me/dkulinenkov) :)
 - [Палыч](https://t.me/antoniopavlovich). В представлении не нуждается :) Байкфит, Нови Сад/Белград.
-- [Лактатный тест](https://www.instagram.com/laktat_zona/). Определение аэробного и анаэробного порогов, точный расчёт тренировочных зон. Милан, говорит по-русски.
+- [Лактатный тест](https://www.instagram.com/laktat_zona/). Определение аэробного и анаэробного порогов, точный расчёт тренировочных зон. Милан, говорит по-русски, пишите ему в [телегу](https://t.me/L4N_M1).
 
 **Починка карбона:**
 - [Младен](https://www.instagram.com/restauracija_carbon_ramova_). Сказывают, восстанавливал совершенно убитые трупы, так что если у вас грусть-печаль — вам к нему.
