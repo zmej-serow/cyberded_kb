@@ -11,7 +11,7 @@
 - [RentMe](https://maps.app.goo.gl/Yo2vr7PAT4q1JCdN8). RentMe: велопрокат, на его базе еще сервис простенький есть.
 
 **Белград:**
-- [Михаил (ElevenTri Service)](https://www.instagram.com/eleventri_service). Надёжный, проверенный годами механик. Обращаться только с карбопушками :)
+- [Михаил (ElevenTri Service)](https://www.instagram.com/eleventri_service, телега https://t.me/mbajev). Надёжный, проверенный годами механик. Обращаться только с карбопушками :)
 - [SportOfis](https://goo.gl/maps/MnEJgi183oU7jEo98). Марко. Очень сильно загруженный мастер, но работает хорошо. Можно нести карбопушку :)
 - [Biciklistički servis Rade](https://goo.gl/maps/k8p7CvGG5NV2BJHB7). Раде, телефон 063 275689. Рекомендации лучших бреветашей страны. Возможно, будет долго, но зато недорого.
 - [Bike-Direct](https://maps.app.goo.gl/hFAAfBQKaL4ZkzSeA). Даниял, русскоязычный мастер. Помогает в подборе и покупке велосипеда.
