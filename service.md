@@ -2,16 +2,15 @@
 
 **Нови Сад:**
 - [Freedom Bike](https://goo.gl/maps/tNvxKc11XUfpc4jL6). Оливер, делает качественно и быстро. Умеет почти всё, можно доверить любимую карбопушку.
-- [Lav servis](https://maps.app.goo.gl/zf3nSTAQ6Xabonb1A). Сергей Сиротин. Мастер спорта по кросскантри и механик с более чем 20-летним опытом работы. Чинит все, что привозят и сербы и русы. Берет индивидуальные проекты по переделке велосипедов и консультирует при подборе и покупке. Телега: [Bicikl_Lav_Servis](https://t.me/Bicikl_Lav_Servis)
+- [5:300](https://maps.app.goo.gl/eCkKaTWa8UWn7K4v8). Сергей Сиротин. Мастер спорта по кросскантри и механик с более чем 20-летним опытом работы. Чинит все, что привозят и сербы и русы. Берет индивидуальные проекты по переделке велосипедов и консультирует при подборе и покупке.
 - [Ris Cycling](https://goo.gl/maps/Rwfpez9zcDdzMy5VA). Бóрис умеет вообще всё, если Оливер не смог — сможет он. Но сильно загружен.
 - [Cikloteka](https://goo.gl/maps/RNBCBmKFiv6KkSRt7). Специализируются на всяком олдскуле. Стальные рамы, винтаж, реставрация — это сюда.
 - [Александр, Alex00172](https://t.me/Alex00172). Питерский мастер, раньше работал в mighty-sport.ru.
-- [Coffeeride](https://maps.app.goo.gl/rWQSRp6NhGXoB6ZC7). Веломастерская + кафе; сказывают, мастер помогает с подбором велосипеда.
 - [Bike team](https://www.biketeam.rs).
 - [RentMe](https://maps.app.goo.gl/Yo2vr7PAT4q1JCdN8). RentMe: велопрокат, на его базе еще сервис простенький есть.
 
 **Белград:**
-- [Михаил (ElevenTri Service)](https://www.instagram.com/eleventri_service, телега https://t.me/mbajev). Надёжный, проверенный годами механик. Обращаться только с карбопушками :)
+- [Михаил, ElevenTri Service](https://www.instagram.com/eleventri_service), телега https://t.me/mbajev. Надёжный, проверенный годами механик. Обращаться только с карбопушками :)
 - [SportOfis](https://goo.gl/maps/MnEJgi183oU7jEo98). Марко. Очень сильно загруженный мастер, но работает хорошо. Можно нести карбопушку :)
 - [Biciklistički servis Rade](https://goo.gl/maps/k8p7CvGG5NV2BJHB7). Раде, телефон 063 275689. Рекомендации лучших бреветашей страны. Возможно, будет долго, но зато недорого.
 - [Bike-Direct](https://maps.app.goo.gl/hFAAfBQKaL4ZkzSeA). Даниял, русскоязычный мастер. Помогает в подборе и покупке велосипеда.
